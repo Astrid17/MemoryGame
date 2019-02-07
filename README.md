@@ -25,3 +25,5 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Dependencies
 - Font Awesome
 - jQuery 
+
+![memoryGame](img/memoryGame.png)
